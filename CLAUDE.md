@@ -104,7 +104,7 @@ wechat-gptbot is a WeChat bot powered by ChatGPT and other LLMs, running via Win
 
 #### Python Code Standards
 
-- **Python target version**: 3.10
+- **Python target version**: 3.13
 - **Formatter**: Black (line length 88)
 - **Linter**: Ruff (pycodestyle `E` + Pyflakes `F`, ignoring `E501`)
 - **Max cyclomatic complexity**: 10
@@ -157,7 +157,7 @@ cp config.template.json config.json
 python app.py
 ```
 
-**Requirements**: Python >= 3.8 (recommended 3.10), Windows with WeChat 3.2.1.121-LTS + wechat-dll-injector
+**Requirements**: Python >= 3.13, Windows with WeChat 3.2.1.121-LTS + wechat-dll-injector
 
 ### Linting & Formatting
 

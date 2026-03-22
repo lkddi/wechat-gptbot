@@ -10,7 +10,7 @@
   <a href="https://www.python.org/">
     <img
       alt="Python Version"
-      src="https://img.shields.io/badge/python-%20%3E%3D%203.8-brightgreen"
+      src="https://img.shields.io/badge/python-%20%3E%3D%203.13-brightgreen"
     />
   </a>
   <a href="https://github.com/BerriAI/litellm">
@@ -46,7 +46,7 @@
 
 Support Windows system(probably support Linux in the future based on [sandbox](https://github.com/huan/docker-wechat)) and `Python` needs to be installed at the same time
 
-> It is recommended that the Python version be between 3.8.X~3.10.X, version 3.10 is perfect
+> It is recommended that the Python version be 3.13 or above
 
 #### 1. Clone repo
 
